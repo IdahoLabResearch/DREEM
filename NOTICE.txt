@@ -1,0 +1,27 @@
+This project contains code from Idaho National Laboratory’s  DREEM (A System Dynamics Model for Assessing 
+Dynamic Rare Earth Production, Demand and U.S. Wind Energy Demand)
+https://github.com/IdahoLabResearch/DREEM
+Licenced under the Apache 2.0 License
+
+Copyright 2018 Battelle Energy Alliance, LLC
+ALL RIGHTS RESERVED
+
+These data were produced by Battelle Energy Alliance, LLC. under Contract No. DE-AC07-05ID14517 with the Department of Energy. 
+This work was supported by the Critical Materials Institute, an Energy Innovation Hub funded by the U.S. Department of Energy,
+Office of Energy Efficiency and Renewable Energy, Advanced Manufacturing Office under Grant AL-12-350-001. 
+The Government is granted for itself, and others acting on its behalf, a paid-up, a nonexclusive, irrevocable worldwide license in this data to reproduce, 
+distribute copies to the public, prepare derivative works, perform publicly and display publicly, and to 
+permit others to do so. NEITHER THE UNITED STATES NOR THE UNITED STATES DEPARTMENT OF ENERGY, NOR ANY 
+OF THEIR EMPLOYEES, MAKES ANY WARRANTY, EXPRESS OR IMPLIED, OR ASSUMES ANY LEGAL LIABILITY OR RESPONSIBILITY 
+FOR THE ACCURACY, COMPLETENESS, OR USEFULNESS OF ANY DATA, APPARATUS, PRODUCT, OR PROCESS DISCLOSED, OR 
+REPRESENTS THAT ITS USE WOULD NOT INFRINGE PRIVATELY OWNED RIGHTS.
+
+Authors:
+Ruby T Nguyen (ruby.nguyen@inl.gov)
+Devin Imholte (devin.imholte@inl.gov)
+
+
+This software is distributed under the
+Apache 2.0 License.
+
+See LICENSE file for details.
